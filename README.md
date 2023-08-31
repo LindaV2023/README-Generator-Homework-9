@@ -49,4 +49,7 @@ Also referred to information, file and code available on the internet.
 ## Features
 
 Features included a Table of Contents with working links in this project are screen shots and video.
-Link to Screencasify video: 
+Screenshots:  ![image](https://github.com/LindaV2023/README-Generator-Homework-9/assets/127782990/1ee871b2-0335-45b4-a67b-334519f0650c)
+![image](https://github.com/LindaV2023/README-Generator-Homework-9/assets/127782990/395823a6-301d-41b1-a1d4-a6319ce66458)
+
+
