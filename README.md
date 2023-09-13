@@ -6,6 +6,16 @@ Doing this project showed me the value of planning out and creating a README fil
 
 Link to video: <iframe src="https://drive.google.com/file/d/15Ps6uxcjd1Ub11oZZAvEmLXYiTwiORWA/preview" width="640" height="480"></iframe>
 
+
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Links](#links)
+* [Licenses](#license)
+* [Credits](#credits)
+
+## Description
 ## User Story
 
 AS A developer
