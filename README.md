@@ -14,6 +14,7 @@ Link to video: <iframe src="https://drive.google.com/file/d/15Ps6uxcjd1Ub11oZZAv
 * [Links](#links)
 * [Licenses](#license)
 * [Credits](#credits)
+* [Features](#features)
 
 ## Description
 ## User Story
@@ -50,6 +51,10 @@ Then you will type: node index.js to get the questions.
 At the prompt, type in your answer to the question.
 At the end of the questions a README1 file will be generated.  It will be in the utils folder.
 Open the README1 file.  If you want you can also preview the file by right clicking on it and clicking Open Preview.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Credits
 

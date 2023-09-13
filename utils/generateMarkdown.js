@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !=="None") {
-    return `![Github License Badge](https://img.shields.io/github/license/LindaV2023/Prof-README-Generator-Homework-9)`
+    return `[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)`
   } else {
    return `;` 
   }
@@ -46,13 +46,14 @@ function renderLicenseBadge(license) {
   ## Description:
   ${data.description}
   
-  ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Creditsn](#credits)
-    - [License](#license)
-    - [Features](#features)
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Links](#links)
+  * [Licenses](#license)
+  * [Credits](#credits)
+  * [Features](#features)
   
   ### Installation:
   ${data.installation}

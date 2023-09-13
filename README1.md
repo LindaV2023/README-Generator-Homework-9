@@ -2,42 +2,43 @@
   
   
    ## Badges:
-   ![Github License Badge](https://img.shields.io/github/license/LindaV2023/Prof-README-Generator-Homework-9)
+   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   
   ## Your Name:
-  llsl
+  liii
   
   # Your Project Title:
-  lslsl
+  ksksk
   
   ## Description:
-  sksks
+  dididi
   
-  ## Table of Contents 
-    - [Description](#description)
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Creditsn](#credits)
-    - [License](#license)
-    - [Features](#features)
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Links](#links)
+  * [Licenses](#license)
+  * [Credits](#credits)
+  * [Features](#features)
   
   ### Installation:
-  sksks
+  nenene
   
   ### Usage:
-  sksks
+  kdkd
   
   ### Credits:
-  kkk
+  kkkk
   
   ### License:
-  lll
+  mit
   
   ### Features:
-  lll
+  kdkdk
   
   ### GitHub User Name:
-  
+  linn
   
   
   
